@@ -8,7 +8,7 @@ I have worked on financial, banking, e-commerce, logistics, SaaS, data-analysis,
 
 ## 🔧 Core Expertise
 
-- C# / .NET 7–9
+- C# / .NET 5–10
 - REST APIs & Microservices
 - Distributed Systems
 - Async/Await, Multithreading & TPL
